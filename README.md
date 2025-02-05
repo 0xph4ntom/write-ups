@@ -32,7 +32,7 @@ This repository serves as:
 |-------------------------|------------|-----------|--------------------|---------------------|
 | Example CTF 2023        | 2023-08-01 | Web       | Cookie Monster     | [Link](./path)      |
 
-###Event Participation
+### Event Participation
 - [CTFTime Profile](http://ctftime.org/user/154484)
   
 | CTF Event | Date | Team | Position |
